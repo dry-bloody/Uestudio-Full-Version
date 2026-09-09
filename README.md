@@ -243,4 +243,4 @@ This repository serves as the official landing page for UEStudio. The software i
 **Get the most recent version of UEStudio today!**
 
 ---
-**Last updated:** 2026-09-08 23:47:08 UTC
+**Last updated:** 2026-09-09 02:37:31 UTC
